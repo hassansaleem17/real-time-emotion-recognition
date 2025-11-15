@@ -43,6 +43,3 @@ Press **q** to quit the camera window.
 
 **Hassan Saleem**
 
-
-✅ Badges (Python, OpenCV, DeepFace, License)
-Just tell me!
